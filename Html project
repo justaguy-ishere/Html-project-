@@ -1,0 +1,30 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Random Project</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #00c6ff, #0072ff);
+      color: white;
+      font-family: sans-serif;
+      text-align: center;
+      padding-top: 100px;
+    }
+    button {
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      border-radius: 5px;
+      background: white;
+      color: #0072ff;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>click the button pls👉👈</h1>
+  <p>plsss click him</p>
+  <button onclick="alert('Good boy'); window.location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ';">Click Me</button>
+</body>
+</html>
